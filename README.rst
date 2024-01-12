@@ -21,6 +21,11 @@ Supported Django versions: 1.4-2.0+
 Installation
 ============
 
+For Dajngo 4 and 5 versions install from git:
+```bash
+poetry add git+https://github.com/alpden550/django-multiselectfield.git
+
+```
 
 Install with pip
 ----------------
